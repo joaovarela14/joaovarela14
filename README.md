@@ -15,7 +15,7 @@ Hello! I'm João Varela, a **Computer Science and Engineering** student at **Uni
 ```js
 const JOAO_VARELA = {
   backend: ["Java", "Python", "Django", "FastAPI", "Node.js", "Spring Boot"],
-  frontend: ["HTML", "CSS", "JavaScript", "React", "Angular", "React Native"],
+  frontend: ["VUE3","HTML", "CSS", "JavaScript", "React", "Angular", "React Native"],
   devops: ["Docker", "Git", "Kafka"],
   database: ["PostgreSQL", "MongoDB", "Redis", "MySQL"],
 };
