@@ -14,9 +14,10 @@ Hello! I'm João Varela, a **Msc Software Engineering** at Universidade de Aveir
 ###  A little more about me
 ```js
 const JOAO_VARELA = {
-  backend: ["Java", "Python","Spring Boot","Django", "FastAPI", "Node.js"],
-  frontend: ["Vue3","HTML", "CSS", "JavaScript", "React", "Angular", "React Native"],
-  devops: ["Docker", "Git", "Kafka"],
+  languages: ["Java", "Python", "JavaScript", "TypeScript", "SQL", "C", "C#"],
+  backend: ["Spring Boot", "Django", "FastAPI", "Node.js"],
+  frontend: ["Vue3", "React", "Angular", "HTML", "CSS", "React Native"],
+  devops: ["Docker", "Git", "Kafka", "Terraform"],
   database: ["PostgreSQL", "MongoDB", "Redis", "MySQL"],
 };
 
