@@ -24,6 +24,4 @@ const JOAO_VARELA = {
 ```
 ## GitHub Stats
 
-<a href="https://github.com/joaovarela14">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovarela14&theme=tokyonight&layout=compact" />
-</a>
+<img class="img" height=195 alt="joaovarela14's GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joaovarela14&langs_count=8&layout=compact&theme=tokyonight" />
