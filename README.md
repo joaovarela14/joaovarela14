@@ -22,6 +22,12 @@ const JOAO_VARELA = {
 };
 
 ```
+## Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/joaomvarela/)
+
+---
+⭐️ From [joaovarela14](https://github.com/joaovarela14)
+
 ## GitHub Stats
 
 <img class="img" height=195 alt="joaovarela14's GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joaovarela14&langs_count=8&layout=compact&theme=dark" />
