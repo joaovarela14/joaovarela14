@@ -1,15 +1,13 @@
-# João Varela
-
+# 👋 Hi, I'm João Varela
 
 ## About Me
-
-Hello! I'm João Varela, a **Msc Software Engineering** at Universidade de Aveiro.
+MSc Student in **Software Engineering** at Universidade de Aveiro
 
 ## Education
 
-- **University of Aveiro**
-  - Course: Computer Science and Engineering
-  - Location: Aveiro, Portugal
+- **University of Aveiro** | Aveiro, Portugal
+  - MSc in Software Engineering
+  - BSc in Computer Science and Engineering
 
 ###  A little more about me
 ```js
@@ -22,10 +20,11 @@ const JOAO_VARELA = {
 };
 
 ```
+
+
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaomvarela/)
----
-From [joaovarela14](https://github.com/joaovarela14)
+
 
 ## GitHub Stats
 
